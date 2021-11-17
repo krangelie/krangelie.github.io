@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Angelie Kraft (M.Sc.)"
 title_separator          : "-"
 name                     : &name "Angelie Kraft (M.Sc.)"
-description              : &description "Researcher at HITeC e.V."
+description              : &description "Ph.D. student at University of Hamburg & Co-Founder of AdaLab"
 url                      : https://krangelie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "krangelie/krangelie.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Angelie Kraft"
   avatar           : "profile.png"
-  bio              : "Researcher at HITeC e.V."
+  bio              : "Ph.D. student at University of Hamburg & Co-Founder of AdaLab"
   location         : "Hamburg, Germany"
   employer         :
   pubmed           : 
