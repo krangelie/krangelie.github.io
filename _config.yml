@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Angelie Kraft (M.Sc.)"
+title                    : "Angelie Kraft"
 title_separator          : "-"
-name                     : &name "Angelie Kraft (M.Sc.)"
+name                     : &name "Angelie Kraft"
 description              : &description "Ph.D. student at University of Hamburg & Co-Founder of AdaLab"
 url                      : https://krangelie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Angelie Kraft"
+  name             : "Angelie Kraft (M.Sc.)"
   avatar           : "profile.png"
   bio              : "Ph.D. student at University of Hamburg & Co-Founder of AdaLab"
   location         : "Hamburg, Germany"
