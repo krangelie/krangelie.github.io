@@ -16,4 +16,9 @@ I co-founded [AdaLab](https://adalab.ai/). We help research institutes and compa
 
 Besides many other things, I love painting and drawing (checkout my insta), arts and crafts in general, and reading fiction that deals with feminist ideas or minority voices. 
 
-This side is WIP -- will be adding more details soon.
+
+# News
+
+My Master's thesis recently won "Best student project" at the Informatics Department of the University of Hamburg. Here is a little (news item)[https://www.inf.uni-hamburg.de/en/inst/ab/lt/home/news/202110-expo.html] about it. Read my thesis (here)[https://www.inf.uni-hamburg.de/en/inst/ab/lt/teaching/theses/completed-theses/2021-ma-kraft.pdf] (code can be found on my github).
+
+
