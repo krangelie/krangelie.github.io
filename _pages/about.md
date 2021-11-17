@@ -19,6 +19,6 @@ Besides many other things, I love painting and drawing (checkout my insta), arts
 
 # News
 
-My Master's thesis recently won "Best student project" at the Informatics Department of the University of Hamburg. Here is a little (news item)[https://www.inf.uni-hamburg.de/en/inst/ab/lt/home/news/202110-expo.html] about it. Read my thesis (here)[https://www.inf.uni-hamburg.de/en/inst/ab/lt/teaching/theses/completed-theses/2021-ma-kraft.pdf] (code can be found on my github).
+My Master's thesis recently won "Best student project" at the Informatics Department of the University of Hamburg. Here is a little [news item](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home/news/202110-expo.html) about it. Read my thesis [here](https://www.inf.uni-hamburg.de/en/inst/ab/lt/teaching/theses/completed-theses/2021-ma-kraft.pdf) (code can be found on my github).
 
 
