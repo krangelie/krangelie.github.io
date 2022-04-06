@@ -22,4 +22,4 @@ Besides many other things, I love painting and drawing (checkout my insta), arts
 
 My Master's thesis recently won "Best student project" at the Informatics Department of the University of Hamburg. Here is a little [news item](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home/news/202110-expo.html) about it. Read my thesis [here](https://www.inf.uni-hamburg.de/en/inst/ab/lt/teaching/theses/completed-theses/2021-ma-kraft.pdf) (code can be found on my github).
 
-On March 23, 2022, I had the honor of giving the valedictorian address at the graduation ceremony for my Master's studies and was awarded as best student of the year. 
+On March 23, 2022, I had the honor of giving the valedictorian address at the graduation ceremony for my Master's studies and was awarded as best student of the year across Master's courses in the computer science department. 
