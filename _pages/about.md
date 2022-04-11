@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi there!
 
-I am a doctoral student in the [Semantic Systems](https://www.inf.uni-hamburg.de/en/inst/ab/sems/home.html) group at the University of Hamburg. 
+I'm a doctoral student in the [Semantic Systems](https://www.inf.uni-hamburg.de/en/inst/ab/sems/home.html) group at the University of Hamburg. 
 
 My main research interests are fairness and societal biases in natural language processing and knowledge graphs. I did a Master's in AI and previously completed Bachelor degrees in both Psychology (University of Mannheim) and Computer Science (University of Bremen). This background strongly influences how I approach problems -- motivated to conduct socially relevant research and to do social scientific theories justice.
 
