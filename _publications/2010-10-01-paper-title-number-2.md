@@ -1,15 +1,21 @@
 ---
-title: "Paper Title Number 2"
+title: "Measuring Gender Bias in German Language Generation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2022-german-regard-number-1
+excerpt: ''
+date: 2022
+venue: 'Proc. INFORMATIK 2022'
+paperurl: 'https://www.edit.fis.uni-hamburg.de/ws/files/18665970/kraftetal2022_german_regard.pdf'
+citation: 'Kraft A., Zorn H.-P., Fecht P., Simon J., Biemann C., Usbeck R. (2022, in press). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+**Abstract:** Most existing methods to measure social bias in natural language generation are specified
+for English language models. In this work, we developed a German regard classifier based on a newly
+crowd-sourced dataset. Our model meets the test set accuracy of the original English version. With
+the classifier, we measured binary gender bias in two large language models. The results indicate a
+positive bias toward female subjects for a German version of GPT-2 and similar tendencies for GPT-3.
+Yet, upon qualitative analysis, we found that positive regard partly corresponds to sexist stereotypes.
+Our findings suggest that the regard classifier should not be used as a single measure but, instead,
+combined with more qualitative analyses.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.edit.fis.uni-hamburg.de/ws/files/18665970/kraftetal2022_german_regard.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
