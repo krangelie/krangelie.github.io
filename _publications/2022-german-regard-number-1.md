@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2022-german-regard-number-1
 date: 2022-09-29
 venue: 'Proc. INFORMATIK 2022'
+excerpt: ''
 paperurl: ''
 citation: ''
 ---
