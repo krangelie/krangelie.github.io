@@ -6,7 +6,7 @@ date: 2022-09-29
 venue: 'Proc. INFORMATIK 2022'
 excerpt: ''
 paperurl: ''
-citation: ''
+citation: 'in press'
 ---
 **Abstract:** Most existing methods to measure social bias in natural language generation are specified
 for English language models. In this work, we developed a German regard classifier based on a newly
