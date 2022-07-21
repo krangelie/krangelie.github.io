@@ -86,8 +86,8 @@ author:
   location         : "Hamburg, Germany"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=_gjIRrMAAAAJ&hl=en"
+  email            : "angelie.kraft@uni-hamburg.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "angelie-kraft"
-  orcid            : 
+  orcid            : "0000-0002-2980-952X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
