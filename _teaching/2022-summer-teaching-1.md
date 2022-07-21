@@ -2,9 +2,9 @@
 title: "Guest Lecture on Ethics and Bias in Data Engineering"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-summer-teaching-1
 venue: "Universität Hamburg"
-date: Summer 2022
+date: 2022-06-29
 location: "Hamburg, Germany"
 ---
 
