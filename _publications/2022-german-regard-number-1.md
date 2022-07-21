@@ -2,11 +2,10 @@
 title: "Measuring Gender Bias in German Language Generation"
 collection: publications
 permalink: /publication/2022-german-regard-number-1
-excerpt: 'test'
 date: 2022-09-29
 venue: 'Proc. INFORMATIK 2022'
 paperurl: 'https://www.edit.fis.uni-hamburg.de/ws/files/18665970/kraftetal2022_german_regard.pdf'
-citation: 'Kraft A., Zorn H.-P., Fecht P., Simon J., Biemann C., Usbeck R. (2022, in press). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: ''
 ---
 **Abstract:** Most existing methods to measure social bias in natural language generation are specified
 for English language models. In this work, we developed a German regard classifier based on a newly
@@ -17,5 +16,5 @@ Yet, upon qualitative analysis, we found that positive regard partly corresponds
 Our findings suggest that the regard classifier should not be used as a single measure but, instead,
 combined with more qualitative analyses.
 
-[Download paper here](https://www.edit.fis.uni-hamburg.de/ws/files/18665970/kraftetal2022_german_regard.pdf)
+[Download the cam-ready version here](https://www.edit.fis.uni-hamburg.de/ws/files/18665970/kraftetal2022_german_regard.pdf)
 
