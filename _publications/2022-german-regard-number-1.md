@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-german-regard-number-1
 date: 2022-09-29
 venue: 'Proc. INFORMATIK 2022'
-paperurl: 'https://www.edit.fis.uni-hamburg.de/ws/files/18665970/kraftetal2022_german_regard.pdf'
+paperurl: ''
 citation: ''
 ---
 **Abstract:** Most existing methods to measure social bias in natural language generation are specified
