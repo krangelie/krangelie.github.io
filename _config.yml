@@ -191,8 +191,6 @@ collections:
 
 # Defaults
 defaults:
-  - header:
-      image: /images/frangipani_chaam.jpeg
   # _posts
   - scope:
       path: ""
