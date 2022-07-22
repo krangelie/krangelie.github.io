@@ -209,6 +209,8 @@ defaults:
     values:
       layout: splash
       author_profile: true
+    header:
+      image: /images/frangipani_chaam.jpeg
   # _teaching
   - scope:
       path: ""
