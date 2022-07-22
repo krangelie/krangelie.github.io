@@ -11,7 +11,7 @@ Hi there!
 
 I'm a PhD student at the [Semantic Systems](https://www.inf.uni-hamburg.de/en/inst/ab/sems/home.html) group at Uni Hamburg. 
 
-My main research interests are fairness and societal biases in natural language processing and knowledge graphs. I hold a Master's in AI and previously completed Bachelor degrees in both Psychology (University of Mannheim) and Computer Science (University of Bremen). This background strongly influences how I approach problems -- motivated to conduct socially relevant research and to do social scientific theories justice.
+My main research interests are fairness and societal biases in natural language processing and knowledge graphs. My interdisciplinary background in CS, ML, and psychology strongly influences how I approach problems -- motivated to conduct socially relevant research and to do social scientific theories justice.
 
 I also co-founded the Hamburg-based start-up [AdaLab](https://adalab.ai/). We help research institutes and companies realize machine learning solutions.
 
