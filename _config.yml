@@ -6,6 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+header:
+  image: /images/frangipani_chaam.jpeg
 locale                   : "en-US"
 title                    : "Angelie Kraft"
 title_separator          : "-"
