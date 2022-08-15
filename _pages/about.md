@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there!
+Hi!
 
 I'm a PhD student at the [Semantic Systems](https://www.inf.uni-hamburg.de/en/inst/ab/sems/home.html) group at Uni Hamburg. 
 
@@ -19,11 +19,7 @@ Besides many other things, I love painting and drawing (checkout my insta), arts
 
 
 # News
+If you are at INFORMATIK 2022, check out the Trustworthy AI 2022 workshop ([schedule](https://www.zvki.de/aktuelles/trustworthy-workshop)) where I will be presenting
+our work "Measuring Gender Bias in German Language Generation"(Kraft et al., 2022, [in press](https://www.edit.fis.uni-hamburg.de/ws/files/18665970/kraftetal2022_german_regard.pdf)).
 
-Recently had two papers accepted:
-
-[Kraft A., Zorn H.-P., Fecht P., Simon J., Biemann C., Usbeck R. (2022, in press). Measuring Gender Bias in German Language Generation. **Proc. INFORMATIK 2022**](https://www.edit.fis.uni-hamburg.de/ws/files/18665970/kraftetal2022_german_regard.pdf)
-
-and
-
-Kraft A., Usbeck R. (2022, accepted). The Ethical Risks of Analyzing Crisis Events on Social Media with Machine Learning. **Proc. International Workshop on Data-driven Resilience Research (D2R2)**
+[Here](https://dataweek.de/slides/2022-07-06-d2r2-22-programm-talk-3.pdf) you can find the slides to our presentation of "The Ethical Risks of Analyzing Crisis Events on Social Media with Machine Learning" (Kraft A. & Usbeck R., 2022, in press).
