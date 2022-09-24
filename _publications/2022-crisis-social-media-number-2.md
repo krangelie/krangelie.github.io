@@ -5,9 +5,10 @@ permalink: /publication/2022-crisis-social-media-number-2
 date: 2022-07-06
 venue: 'Proc. International Workshop on Data-driven Resilience Research 2022'
 excerpt: ''
-paperurl: 'https://www.edit.fis.uni-hamburg.de/ws/files/21694376/CAMRDY_D2R2_ethical_risks_social_media_ML.pdf'
-citation: 'accepted'
+paperurl: ''
+citation: ''
 ---
+
 **Abstract:** Social media platforms provide a continuous stream of real-
 time news regarding crisis events happening on a global scale. Several
 machine learning methods utilize the crowd-sourced data for the auto-
@@ -21,5 +22,6 @@ ing on machine learning methods. We aim to sensitize researchers and
 practitioners to the ethical pitfalls and promote fairer and more reliable
 designs.
 
+[Pre-print](https://www.edit.fis.uni-hamburg.de/ws/files/21694376/CAMRDY_D2R2_ethical_risks_social_media_ML.pdf)
 [Presentation slides](https://zenodo.org/record/6857080)
 
