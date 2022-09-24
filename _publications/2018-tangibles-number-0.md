@@ -1,8 +1,8 @@
 ---
 title: "Multimodal Algebra Learning: From Math Manipulatives to Tangible User Interfaces"
 collection: publications
-permalink: /publication/2018-tangibles-number-0
-date: 2018-12-1
+permalink: /publications/2018-tangibles-number-0
+date: 2018-12-01
 venue: 'i-com'
 excerpt: ''
 paperurl: 'https://doi.org/10.1515/icom-2018-0027'

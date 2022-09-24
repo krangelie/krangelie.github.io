@@ -1,7 +1,7 @@
 ---
 title: "The Ethical Risks of Analyzing Crisis Events on Social Media with Machine Learning"
 collection: publications
-permalink: /publication/2022-crisis-social-media-number-2
+permalink: /publications/2022-crisis-social-media-number-2
 date: 2022-07-06
 venue: 'Proc. International Workshop on Data-driven Resilience Research 2022'
 excerpt: ''
