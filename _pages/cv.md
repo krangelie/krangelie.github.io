@@ -32,7 +32,7 @@ Work experience
   * Custom ML solutions for research and businesses
 
 * since 2021: Research Assistant
-  * [Semantic Systems](https://www.inf.uni-hamburg.de/en/inst/ab/sems/home.html) group at Universität Hambur, [HITeC](https://www.hitec-hamburg.de/)
+  * [Semantic Systems](https://www.inf.uni-hamburg.de/en/inst/ab/sems/home.html) group at Universität Hamburg
   
 
 Publications
