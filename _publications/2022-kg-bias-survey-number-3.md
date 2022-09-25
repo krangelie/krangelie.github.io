@@ -2,7 +2,7 @@
 title: 'The Lifecycle of _Facts_: On Social Biases in Knowledge Graphs'
 collection: publications
 permalink: /publications/2022-kg-bias-survey-number-3
-date: 2022-09-21
+date: 2022-11-21
 venue: 'Proc. AACL-IJCNLP 2022'
 excerpt: ''
 paperurl: ''
