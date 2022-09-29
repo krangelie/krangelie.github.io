@@ -17,10 +17,10 @@ Besides many other things, I love painting and drawing, arts and crafts in gener
 
 
 # News
+"Measuring Gender Bias in German Language Generation" (Kraft et al., 2022) is now available [here](https://dl.gi.de/handle/20.500.12116/39481).
+
 Our paper "The Lifecycle of "Facts": On Social Biases in Knowledge Graphs" (Kraft A. & Usbeck R.) was accepted to the AACL-IJCNLP 2022 main conference! Pre-print following soon! 
 
 Read the pre-print to our position paper ["The Ethical Risks of Analyzing Crisis Events on Social Media with Machine Learning"](https://www.edit.fis.uni-hamburg.de/ws/files/21694376/CAMRDY_D2R2_ethical_risks_social_media_ML.pdf) (Kraft A. & Usbeck R.). 
 
-If you are at INFORMATIK 2022, check out the Trustworthy AI 2022 workshop ([schedule](https://www.zvki.de/aktuelles/trustworthy-workshop)) where I will be presenting
-our work "Measuring Gender Bias in German Language Generation"(Kraft et al., 2022, [in press](https://www.edit.fis.uni-hamburg.de/ws/files/18665970/kraftetal2022_german_regard.pdf)).
 
