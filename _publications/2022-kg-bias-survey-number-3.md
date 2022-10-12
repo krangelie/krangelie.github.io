@@ -5,7 +5,7 @@ permalink: /publications/2022-kg-bias-survey-number-3
 date: 2022-11-21
 venue: 'Proc. AACL-IJCNLP 2022'
 excerpt: ''
-paperurl: ''
+paperurl: 'http://arxiv.org/abs/2210.03353'
 citation: ''
 ---
 
