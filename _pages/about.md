@@ -15,6 +15,8 @@ My main research interests are fairness and societal biases in natural language 
 
 Besides many other things, I love painting and drawing, arts and crafts in general, and reading fiction that deals with feminist ideas or minority voices. 
 
+# Find me on Mastodon
+[@anangelie@mastodon.online](https://mastodon.online/@anangelie)
 
 # News
 Our paper "The Lifecycle of "Facts": On Social Biases in Knowledge Graphs" (Kraft A. & Usbeck R.) was accepted to the AACL-IJCNLP 2022 main conference! Read the pre-print [here](http://arxiv.org/abs/2210.03353)! 
