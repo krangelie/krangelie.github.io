@@ -19,7 +19,7 @@ Besides many other things, I love painting and drawing, arts and crafts in gener
 [@anangelie@mastodon.online](https://mastodon.online/@anangelie)
 
 # News
-In an interview with AIhub, I talked about the learnings from our recent research on bias in knowledge graphs: [read the interview here] (https://aihub.org/2022/11/16/the-lifecycle-of-facts-a-survey-of-social-bias-in-knowledge-graphs-interview-with-angelie-kraft/).
+In an interview with AIhub, I talked about the learnings from our recent research on bias in knowledge graphs: [read the interview here](https://aihub.org/2022/11/16/the-lifecycle-of-facts-a-survey-of-social-bias-in-knowledge-graphs-interview-with-angelie-kraft/).
 
 Our paper "The Lifecycle of “Facts”: A Survey of Social Bias in Knowledge Graphs" (Kraft A. & Usbeck R.) was accepted to the AACL-IJCNLP 2022 main conference! Read the pre-print [here](http://arxiv.org/abs/2210.03353)! 
 
