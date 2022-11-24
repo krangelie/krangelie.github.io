@@ -3,7 +3,7 @@ title: 'The Lifecycle of _Facts_: On Social Biases in Knowledge Graphs'
 collection: publications
 permalink: /publications/2022-kg-bias-survey-number-3
 date: 2022-11-21
-venue: 'AACL-IJCNLP'
+venue: 'Proc. AACL-IJCNLP'
 excerpt: ''
 paperurl: 'https://aclanthology.org/2022.aacl-main.49/'
 citation: 'Angelie Kraft and Ricardo Usbeck. 2022. The Lifecycle of “Facts”: A Survey of Social Bias in Knowledge Graphs. In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing, pages 639–652, Online only. Association for Computational Linguistics.'
