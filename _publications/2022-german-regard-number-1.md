@@ -6,7 +6,7 @@ date: 2022-09-29
 venue: 'Proc. INFORMATIK'
 excerpt: ''
 paperurl: 'https://dl.gi.de/handle/20.500.12116/39481'
-citation: 'Kraft, A., Zorn, H.-P., Fecht, P., Simon, J., Biemann, C. & Usbeck, R., (2022). Measuring Gender Bias in German Language Generation. In: Demmler, D., Krupka, D. & Federrath, H. (Hrsg.), INFORMATIK 2022. Gesellschaft für Informatik, Bonn. (p. 1257-1274). DOI: 10.18420/inf2022_108'
+citation: 'Kraft, A., Zorn, H.-P., Fecht, P., Simon, J., Biemann, C. & Usbeck, R. (2022). Measuring Gender Bias in German Language Generation. In: Demmler, D., Krupka, D. & Federrath, H. (Hrsg.), INFORMATIK 2022. Gesellschaft für Informatik, Bonn. (p. 1257-1274). DOI: 10.18420/inf2022_108'
 ---
 **Abstract:** Most existing methods to measure social bias in natural language generation are specified
 for English language models. In this work, we developed a German regard classifier based on a newly
