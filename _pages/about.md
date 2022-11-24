@@ -16,7 +16,7 @@ My main research interests are fairness and societal biases in natural language 
 Besides many other things, I love painting and drawing, arts and crafts in general, and reading fiction that deals with feminist ideas or minority voices. 
 
 ### Find me on Mastodon
-[@anangelie@mastodon.online](https://sigmoid.social/@anangelie)
+[@anangelie@sigmoid.social](https://sigmoid.social/@anangelie)
 
 # News
 
