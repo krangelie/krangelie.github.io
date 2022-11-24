@@ -16,7 +16,7 @@ Education
 * B.S. in Computer Science, Universität Bremen, 2018
 * M.S. in Intelligent Adaptive Systems, Universität Hamburg, 2021
   * Exchange semester at Johns Hopkins University, 2019
-* Ph.D in AI ethics & bias in NLP, Universität Hamburg, ongoing since 2021
+* Ph.D in fairness & bias in NLP, Universität Hamburg, ongoing since 2021
 
 Work experience
 ======
