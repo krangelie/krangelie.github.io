@@ -3,7 +3,7 @@ title: "The Ethical Risks of Analyzing Crisis Events on Social Media with Machin
 collection: publications
 permalink: /publications/2022-crisis-social-media-number-2
 date: 2022-07-06
-venue: 'Proc. International Workshop on Data-driven Resilience Research 2022'
+venue: 'Proc. International Workshop on Data-driven Resilience Research'
 excerpt: ''
 paperurl: ''
 citation: ''
