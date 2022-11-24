@@ -16,12 +16,13 @@ My main research interests are fairness and societal biases in natural language 
 Besides many other things, I love painting and drawing, arts and crafts in general, and reading fiction that deals with feminist ideas or minority voices. 
 
 ### Find me on Mastodon
-[@anangelie@mastodon.online](https://mastodon.online/@anangelie)
+[@anangelie@mastodon.online](https://sigmoid.social/@anangelie)
 
 # News
-In an interview with AIhub, I talked about the learnings from our recent research on bias in knowledge graphs: [read the interview here](https://aihub.org/2022/11/16/the-lifecycle-of-facts-a-survey-of-social-bias-in-knowledge-graphs-interview-with-angelie-kraft/).
 
-Our paper "The Lifecycle of “Facts”: A Survey of Social Bias in Knowledge Graphs" (Kraft A. & Usbeck R.) was accepted to the AACL-IJCNLP 2022 main conference! Read the pre-print [here](http://arxiv.org/abs/2210.03353)! 
+Our paper "The Lifecycle of “Facts”: A Survey of Social Bias in Knowledge Graphs" (Kraft A. & Usbeck R.) can now be found in the proceedings of AACL-IJCNLP 2022! Read it [here](https://aclanthology.org/2022.aacl-main.49/)! 
+
+In an interview with AIhub, I talked about the learnings from our recent research on bias in knowledge graphs: [read the interview here](https://aihub.org/2022/11/16/the-lifecycle-of-facts-a-survey-of-social-bias-in-knowledge-graphs-interview-with-angelie-kraft/).
 
 "Measuring Gender Bias in German Language Generation" (Kraft et al., 2022) is now available [here](https://dl.gi.de/handle/20.500.12116/39481).
 
