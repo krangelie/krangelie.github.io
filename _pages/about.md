@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /assets/images/clark-van-der-beken-MQzSZ5BkjAg-unsplash.jpg
+  overlay_image: /assets/clark-van-der-beken-MQzSZ5BkjAg-unsplash.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [Clark Van Der Beken via Unsplash](https://unsplash.com/@snapsbyclark)
 
