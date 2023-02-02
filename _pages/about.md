@@ -7,13 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi!
-
 I'm a PhD student at the [Semantic Systems](https://www.inf.uni-hamburg.de/en/inst/ab/sems/home.html) group at Uni Hamburg. My supervisors are Prof. Ricardo Usbeck and Prof. Judith Simon. 
 
 My main research interests are fairness and societal biases in natural language processing and knowledge graphs. My interdisciplinary background in CS, ML, and psychology strongly influences how I approach problems -- motivated to conduct socially relevant research and to do social scientific theories justice.
 
-Besides many other things, I love painting and drawing, arts and crafts in general, and reading fiction that deals with feminist ideas or minority voices. 
 
 ### Find me on Mastodon
 [@anangelie@sigmoid.social](https://sigmoid.social/@anangelie)
