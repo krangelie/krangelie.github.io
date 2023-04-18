@@ -5,7 +5,7 @@ permalink: /publications/2022-crisis-social-media-number-2
 date: 2022-07-06
 venue: 'Proc. International Workshop on Data-driven Resilience Research'
 excerpt: ''
-paperurl: ''
+paperurl: 'https://ceur-ws.org/Vol-3376/paper01.pdf'
 citation: ''
 ---
 
@@ -22,6 +22,5 @@ ing on machine learning methods. We aim to sensitize researchers and
 practitioners to the ethical pitfalls and promote fairer and more reliable
 designs.
 
-[Pre-print](https://www.edit.fis.uni-hamburg.de/ws/files/21694376/CAMRDY_D2R2_ethical_risks_social_media_ML.pdf)
 [Presentation slides](https://zenodo.org/record/6857080)
 
