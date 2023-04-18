@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a doctoral candidate and researcher at the [Semantic Systems](https://www.inf.uni-hamburg.de/en/inst/ab/sems/home.html) group at Uni Hamburg. My supervisors are Prof. Ricardo Usbeck and Prof. Judith Simon. 
 
-My main research interests are societal biases and factuality in natural language models. My interdisciplinary background in CS, ML, and psychology strongly influences how I approach problems -- motivated to conduct socially relevant research and to do social scientific theories justice.
+My main research interests are societal biases and factuality in language models. My interdisciplinary background in CS, ML, and psychology strongly influences how I approach problems -- motivated to conduct socially relevant research and to do social scientific theories justice.
 
 
 # News
