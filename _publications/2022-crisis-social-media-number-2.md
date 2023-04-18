@@ -3,10 +3,10 @@ title: "The Ethical Risks of Analyzing Crisis Events on Social Media with Machin
 collection: publications
 permalink: /publications/2022-crisis-social-media-number-2
 date: 2022-07-06
-venue: 'Proc. International Workshop on Data-driven Resilience Research'
+venue: 'Proc. International Workshop on Data-driven Resilience Research 2022'
 excerpt: ''
-paperurl: 'https://ceur-ws.org/Vol-3376/paper01.pdf'
-citation: ''
+paperurl: ''
+citation: 'Kraft, A. and Usbeck, R. (2022). The Ethical Risks of Analyzing Crisis Events on Social Media with Machine Learning. In Proceedings of the International Workshop on Data-driven Resilience Research 2022 co-located with Data Week Leipzig 2022 (DATAWEEK 2022), CEUR-WS.org, https://ceur-ws.org/Vol-3376/paper01.pdf'
 ---
 
 **Abstract:** Social media platforms provide a continuous stream of real-
