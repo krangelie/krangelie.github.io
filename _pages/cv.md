@@ -49,6 +49,7 @@ Talks
 
 Scholarships and Awards
 ======
+* 2023: **Special prize for an outstanding Master's thesis** that deals with the socially responsible design of technologies and critically reflects on their social consequences by the Women and Computer Science Section of the German Informatics Society
 * 2022: **NVIDIA Academic Hardware Grant** for my PhD research (2x RTX A5000 24GB)
 * 2022: **Best Student of the Year** (of all Master's programs of the Department of Informatics at Universität Hamburg)
 * 2021: 1st place for [**Best Student Project**](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home/news/202110-expo.html) of the Department of Informatics at Universität Hamburg (EXPO)
