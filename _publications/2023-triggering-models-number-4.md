@@ -3,7 +3,7 @@ title: 'Triggering Models – Messung und Mitigation sexistischer Vorurteile in 
 Sprachmodellen'
 collection: publications
 permalink: /publications/2023-triggering-models-number-4
-date: 2023
+date: 2023-09-01
 venue: 'Frauen machen Informatik. Magazin der GI-Fachgruppe Frauen in der Informatik'
 excerpt: ''
 paperurl: 'https://dl.gi.de/server/api/core/bitstreams/7e9d9da3-4cc4-4cf2-9cbe-2b88a104da45/content'
