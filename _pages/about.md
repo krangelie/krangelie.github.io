@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a doctoral candidate and researcher at the [Semantic Systems](https://www.inf.uni-hamburg.de/en/inst/ab/sems/home.html) group at Uni Hamburg. My supervisors are Prof. Dr. Ricardo Usbeck and Prof. Dr. Judith Simon. 
 
-My research mainly reflects on epistemic issues in the creation and evaluation of language models and knowledge graphs. I examine whose knowledge is represented in these technologies and what we consider "factual". I'm also interested in the epistemic processes behind benchmark creation and adoption and how they can be improved. Due to my interdisciplinary background in CS, ML, and psychology I tend to draw from different theories and toolboxes in my research. 
+My research mainly reflects on epistemic issues in the creation and evaluation of language models and knowledge graphs. I examine whose knowledge is represented in these technologies and what we consider "factual". To this end, I'm also interested in the epistemic processes behind benchmark creation and adoption and how they can be improved. Due to my interdisciplinary background in CS and psychology I tend to draw from different theories and methods in my research. 
 
 
 # News
