@@ -1,5 +1,5 @@
 ---
-title: "Guest Lecture on Ethics and Bias in Data Engineering 2022"
+title: "Guest Lecture on Ethics and Bias in Data Engineering 2023"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-summer-teaching-2
