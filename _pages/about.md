@@ -13,11 +13,9 @@ My research mainly reflects on epistemic issues in the creation and evaluation o
 
 
 # News
+My paper "Knowledge-Enhanced Language Models Are Not Bias-Proof: Situated Knowledge and Epistemic Injustice in AI" co-authored by Eloïse Soulier is now available in the [FAccT 2024 proceedings](https://facctconference.org/static/papers24/facct24-96.pdf).
 
 I was recently kindly invited to give an [introductory talk about LLMs](https://fg-frauen-informatik.gi.de/veranstaltung/fachgruppentagung-2024) at the 2024 meeting of the GI Section Woman and Computer Science, in Heidelberg. 
-
-
-My paper with Eloïse Soulier "Knowledge-Enhanced Language Models Are Not Bias-Proof: Situated Knowledge and Epistemic Injustice in AI" was accepted to FAccT 2024. We are looking forward to presenting our work in Rio de Janeiro, Brazil, in June!
 
 
 
