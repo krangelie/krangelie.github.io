@@ -4,7 +4,7 @@ Situated Knowledge and Epistemic Injustice in AI'
 collection: publications
 permalink: /publications/2024-ke-lm-number-5
 date: 2024-06-05
-venue: 'FAccT '24: The 2024 ACM Conference on Fairness, Accountability, and Transparency'
+venue: 'FAccT 2024: The 2024 ACM Conference on Fairness, Accountability, and Transparency'
 excerpt: ''
 paperurl: 'https://dl.acm.org/doi/10.1145/3630106.3658981'
 citation: 'Angelie Kraft and Eloïse Soulier. 2024. Knowledge-Enhanced Language Models Are Not Bias-Proof: Situated Knowledge and Epistemic Injustice in AI. In The 2024 ACM Conference on Fairness, Accountability, and Transparency (FAccT '24). Association for Computing Machinery, New York, NY, USA, 1433–1445. https://doi.org/10.1145/3630106.3658981'
