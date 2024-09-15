@@ -63,4 +63,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
+Organized Events
+======
+  <ul>{% for post in site.events %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
