@@ -13,7 +13,7 @@ Education
 ======
 * since 2021: Ph.D. in fairness & bias in NLP, Hamburg University, Hamburg, Germany
 * 2021: M.Sc. in Intelligent Adaptive Systems, Hamburg University, Hamburg, Germany
-  * 2019: Exchange semester at Johns Hopkins University, Baltimore, MD, USA, 2019
+  * 2019: Exchange semester at Johns Hopkins University, Baltimore, MD, USA
 * 2018: B.Sc. in Computer Science, Bremen University, Bremen, Germany
 * 2015: B.Sc. in Psychology, Mannheim University, Mannheim, Germany 
   * 2013: Exchange semester at National Taiwan University, Taipei, Taiwan
@@ -51,18 +51,17 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Organized Events
+Summer Schools, Workshops, Tutorials
 ======
-  <ul>{% for post in site.events %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2024: Co-organizer of the first summer school on [Artificial Intelligence and Knowledge Graphs for Scholarly Data (AIKG-SD 2024)](https://sites.google.com/view/aikg-sd-summer-school-day-2024/startseite), Leuphana University Lüneburg
+
 
 Scholarships and Awards
 ======
 * 2023: **Special prize for an outstanding Master's thesis** that deals with the socially responsible design of technologies and critically reflects on their social consequences by the Women and Computer Science Section of the German Informatics Society
 * 2022: **NVIDIA Academic Hardware Grant** for my PhD research (2x RTX A5000 24GB)
-* 2022: **Best Student of the Year** (of all Master's programs of the Department of Informatics at Universität Hamburg)
-* 2021: 1st place for [**Best Student Project**](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home/news/202110-expo.html) of the Department of Informatics at Universität Hamburg (EXPO)
+* 2022: **Best Student of the Year** (of all Master's programs of the Department of Informatics at Hamburg University)
+* 2021: 1st place for [**Best Student Project**](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home/news/202110-expo.html) of the Department of Informatics at Hamburg University (EXPO)
 * 2019: Intuitive Surgical **Runner-up Award** for student project “Monocular Depth Estimation of Endoscopic Images”
 * 2019: [**Hamburglobal Scholarship**](https://www.uni-hamburg.de/en/internationales/studierende/outgoing/austausch-gaststudium/finanzierung/hamburglobal-foerderprogramm.html) for an exchange semester at Johns Hopkins University
 * 2019: **Full Scholarship** for the [Interdisciplinary College (IK)](https://interdisciplinary-college.org/)
