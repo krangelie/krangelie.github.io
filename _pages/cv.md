@@ -51,7 +51,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Summer Schools, Workshops, Tutorials
+Summer Schools, Workshops and Tutorials
 ======
 * 2024: Co-organizer of the first summer school on [Artificial Intelligence and Knowledge Graphs for Scholarly Data (AIKG-SD 2024)](https://sites.google.com/view/aikg-sd-summer-school-day-2024/startseite), Leuphana University Lüneburg
 
