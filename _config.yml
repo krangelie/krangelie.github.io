@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Angelie Kraft (M.Sc.)"
-  avatar           : "profil.jpg"
+  avatar           : 
   bio              : "Doctoral candidate at University of Hamburg"
   location         : "Hamburg, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_gjIRrMAAAAJ&hl=en"
-  email            : "angelie.kraft@uni-hamburg.de"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@ada_gelie"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
